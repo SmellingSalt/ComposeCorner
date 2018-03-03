@@ -2,6 +2,8 @@
 
 34.  pnr status indian railway
 
+35.  pnr status
+
 36.  train seat availability
 
 38.  train ticket booking

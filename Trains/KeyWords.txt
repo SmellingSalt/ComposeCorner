@@ -1,17 +1,10 @@
-32.  irctc train enquiry between two stations
-
 33.  train times
 
 34.  pnr status indian railway
 
-35.  pnr status
-
 36.  train seat availability
-
-37.  train running status
 
 38.  train ticket booking
 
-39.  seat availability
 
-40.  irctc train enquiry
+
